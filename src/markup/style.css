@@ -1,0 +1,23 @@
+strong {
+  color: red;
+  font-size: 30px;
+}
+
+.lists {
+  .imlist.special {
+    color: blue;
+    font-weight: 800;
+  }
+  .imlist {
+    font-size: 30px;
+    color: red;
+  }
+  /* .special {
+    color: blue;
+    font-weight: 800;
+  }
+  .imlist {
+    font-size: 30px;
+    color: red;
+  } */
+}
